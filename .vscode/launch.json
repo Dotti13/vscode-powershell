@@ -1,6 +1,7 @@
 {
   "version": "0.2.0",
   "configurations": [
+    
     // NOTE: These are not in the code-workspace file because StartDebugging cannot current resolve configs stored there so they have to be here for the Mocha Test Explorer feature.
     // Ref: https://github.com/microsoft/vscode/issues/150663
     {
